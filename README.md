@@ -35,12 +35,6 @@ Get-Process -Id $PID | Show-ApiContext -MaxDepth 3
 
 [Explore the repository →](https://github.com/qlikq/xDPsApiExplorer) · [Browse my Gallery packages →](https://www.powershellgallery.com/profiles/gregu)
 
-## From the lab
-
-**xDlabs HC** brings host health checks and observability views into the vSphere Client. My lab work includes ESXi check results, host dashboards, and cluster DRS/HA activity visibility.
-
-This is a separate lab project; it is not presented here as a publicly released repository.
-
 ## Let's build what's next
 
 **Available from January 2027** for new opportunities, client projects, and collaborations in **vSphere, infrastructure automation, and virtualization**.
